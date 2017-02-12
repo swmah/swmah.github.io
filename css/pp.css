@@ -1,0 +1,33 @@
+
+h1 {font-size: 25;
+	font: aria-haspopup;
+	font-family: fantasy;
+	}
+
+p { font-size: 15;
+	font: aria-haspopup;
+	font-family: fantasy;
+	}
+
+.nav {list-style: none;
+    width: 100%
+    background-color: #000000;
+    height:20px;}
+
+
+.no-padding {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+
+.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: underline;
+    color: initial;
+}
+
+.instagram {color: blue;}
